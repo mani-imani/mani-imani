@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=GeekMani+👋;یه+گیک+تمام+عیار+🤓;Web+Developer+in+Progress+🚀" />
-</h1>
+<h1 align="center">GeekMani 👋</h1>
+<h3 align="center">یه گیک تمام عیار 🤓 | Web Developer in Progress 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mani-imani&color=7F77DD&style=flat-square&label=Profile+Views" />
