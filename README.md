@@ -12,7 +12,7 @@
 🎯 در حال یادگیری **Web Development** با تمرکز روی **Django**  
 📚 مسیر: HTML/CSS ✅ → Python ✅ → Django 🔄 → Full Stack 🎯  
 💡 علاقه‌مند به همه چیز تِک  
-⚡ شعار: **یه گیکِ تمام عیار**  
+⚡  **یه گیکِ تمام عیار**  
 📬 تماس: hey.geekmani@gmail.com
 
 ---
