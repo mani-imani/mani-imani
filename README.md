@@ -16,11 +16,44 @@ I build simple tools that take work off people's hands, and I design the way the
 
 ### Geek family
 
-- <img src="assets/geekrtl-icon-48.png" width="20" alt=""> **[GeekRTL](https://github.com/mani-imani/GeekRTL)**: Chrome extension that shows Persian and Arabic right-to-left on AI chats such as Claude, ChatGPT and Gemini. [Page](https://mani-imani.github.io/GeekRTL/en/)
-- <img src="assets/geekref-icon-48.png" width="20" alt=""> **[GeekRef](https://github.com/mani-imani/GeekRef)**: Persian quick-reference sheets for developers, with 282 commands, search and offline use. [Site](https://mani-imani.github.io/GeekRef/)
-- <img src="assets/geektype-icon-48.png" width="20" alt=""> **[GeekType](https://github.com/mani-imani/GeekType)**: Linux tool that fixes text typed in the wrong keyboard layout with one key, F9. [Page](https://mani-imani.github.io/GeekType/en/)
-- <img src="assets/geekorbit-icon-48.png" width="20" alt=""> **[GeekOrbit](https://github.com/mani-imani/GeekOrbit)**: Offline dashboard that shows which project and chat lives on which AI chatbot account. [Open the app](https://mani-imani.github.io/GeekOrbit/)
-- <img src="assets/geekproject-icon-48.png" width="20" alt=""> **[GeekProject](https://t.me/geekproject)**: Websites, graphic design and Office documents for students and small businesses.
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/geekrtl-icon-48.png" width="40" height="40" align="left" alt="">
+<b><a href="https://github.com/mani-imani/GeekRTL">GeekRTL</a></b><br>
+<sub>Chrome extension that shows Persian and Arabic right-to-left on AI chats such as Claude, ChatGPT and Gemini.</sub><br>
+<sub><a href="https://mani-imani.github.io/GeekRTL/en/">Product page</a></sub>
+</td>
+<td width="50%" valign="top">
+<img src="assets/geekref-icon-48.png" width="40" height="40" align="left" alt="">
+<b><a href="https://github.com/mani-imani/GeekRef">GeekRef</a></b><br>
+<sub>Persian quick-reference sheets for developers, with 282 commands, search and offline use.</sub><br>
+<sub><a href="https://mani-imani.github.io/GeekRef/">Open the site</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/geektype-icon-48.png" width="40" height="40" align="left" alt="">
+<b><a href="https://github.com/mani-imani/GeekType">GeekType</a></b><br>
+<sub>Linux tool that fixes text typed in the wrong keyboard layout, Persian or English, with one key: F9.</sub><br>
+<sub><a href="https://mani-imani.github.io/GeekType/en/">Product page</a></sub>
+</td>
+<td width="50%" valign="top">
+<img src="assets/geekorbit-icon-48.png" width="40" height="40" align="left" alt="">
+<b><a href="https://github.com/mani-imani/GeekOrbit">GeekOrbit</a></b><br>
+<sub>Offline dashboard that shows which project and chat lives on which AI chatbot account.</sub><br>
+<sub><a href="https://mani-imani.github.io/GeekOrbit/">Open the app</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2" valign="top">
+<img src="assets/geekproject-icon-48.png" width="40" height="40" align="left" alt="">
+<b><a href="https://t.me/geekproject">GeekProject</a></b><br>
+<sub>Websites, graphic design and Office documents for students and small businesses.</sub><br>
+<sub><a href="https://t.me/geekproject">Telegram channel</a></sub>
+</td>
+</tr>
+</table>
 
 ### Recent work
 **Request management and workflow system** for a pharmaceutical company, built from scratch and deployed on the company's server: Django, DRF, PostgreSQL, Celery, Redis, Docker, 15 apps, 359 automated tests. [Case study](https://maniimani.ir/en/projects/request-system/)
