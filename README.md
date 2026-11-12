@@ -64,7 +64,7 @@ I build simple tools that take work off people's hands, and I design the way the
 **Learning now:** HTML · CSS · JavaScript · TypeScript · React · Next.js · SQL in depth · Figma · Tailwind CSS
 
 ### Contact
-[maniimani.ir](https://maniimani.ir/en/) · [LinkedIn](https://www.linkedin.com/in/mani-imani) · [Telegram](https://t.me/mani_imani) · imanisanjar@gmail.com
+[maniimani.ir](https://maniimani.ir/en/) · [LinkedIn](https://www.linkedin.com/in/mani-imani) · [X](https://x.com/maniimanisanjar) · [Telegram](https://t.me/mani_imani) · imanisanjar@gmail.com
 
 ---
 
@@ -80,6 +80,6 @@ I build simple tools that take work off people's hands, and I design the way the
 - &rlm;<bdi>GeekOrbit</bdi>: داشبورد آفلاین برای اینکه بدانید هر پروژه و گفت‌وگو روی کدام حساب چت‌بات است
 - &rlm;<bdi>GeekProject</bdi>: طراحی سایت، طراحی گرافیک و اسناد آفیس برای دانشجوها و کسب‌وکارهای کوچک
 
-سایت: [maniimani.ir](https://maniimani.ir) · کانال: [t.me/geekmani](https://t.me/geekmani)
+سایت: [maniimani.ir](https://maniimani.ir) · ایکس: [@maniimanisanjar](https://x.com/maniimanisanjar) · کانال: [t.me/geekmani](https://t.me/geekmani)
 
 </div>
