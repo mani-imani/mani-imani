@@ -53,6 +53,14 @@ I build simple tools that take work off people's hands, and I design the way the
 <sub><a href="https://mani-imani.github.io/GeekTodo/">Open the app</a></sub>
 </td>
 <td width="50%" valign="top">
+<img src="assets/geekbook-icon-48.png" width="40" height="40" align="left" alt="">
+<b><a href="https://github.com/mani-imani/GeekBook">GeekBook</a></b><br>
+<sub>Offline companion for readers of paper books: where you stopped, summaries and spaced review.</sub><br>
+<sub><a href="https://mani-imani.github.io/GeekBook/">Open the app</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <img src="assets/geekproject-icon-48.png" width="40" height="40" align="left" alt="">
 <b><a href="https://t.me/geekproject">GeekProject</a></b><br>
 <sub>Websites, graphic design and Office documents for students and small businesses.</sub><br>
@@ -85,6 +93,7 @@ I build simple tools that take work off people's hands, and I design the way the
 - &rlm;<bdi>GeekType</bdi>: اصلاح متنی که با زبان اشتباه صفحه‌کلید تایپ شده، با کلید <bdi>F9</bdi>
 - &rlm;<bdi>GeekOrbit</bdi>: داشبورد آفلاین برای اینکه بدانید هر پروژه و گفت‌وگو روی کدام حساب چت‌بات است
 - &rlm;<bdi>GeekTodo</bdi>: فهرست کارهای ساده و آفلاین که هر کار در آن با خط کشیدن تمام می‌شود
+- &rlm;<bdi>GeekBook</bdi>: همراه آفلاین کتاب‌خوان‌های کاغذی: کجا ماندم، خلاصه از حفظ و مرور با فاصله
 - &rlm;<bdi>GeekProject</bdi>: طراحی سایت، طراحی گرافیک و اسناد آفیس برای دانشجوها و کسب‌وکارهای کوچک
 
 سایت: [maniimani.ir](https://maniimani.ir) · ایکس: [@maniimanisanjar](https://x.com/maniimanisanjar) · کانال: [t.me/geekmani](https://t.me/geekmani)
